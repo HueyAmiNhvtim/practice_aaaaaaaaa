@@ -44,7 +44,6 @@ class Solution:
             result += max_joltage_line
 
         return result
-        return result
 
     def find_max_joltage_sf(self, bank_line: str):
         result = ""
